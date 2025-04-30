@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Satya Sai Ganesh
 
 💻 Passionate | Exploring Backend Technologies  
