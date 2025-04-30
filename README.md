@@ -19,7 +19,7 @@
 
 
 ### 📫 How to Reach Me
-- 📧 Email: ganeshtech.dev@gmail.com
+- 📧 Email: satyasaiganeshmani343@gmail.com
 - 🌐 Portfolio: https://ganeshtech4.github.io/portfolio/  
 - 💬 LinkedIn:  https://www.linkedin.com/in/ganeshtech4/
 
