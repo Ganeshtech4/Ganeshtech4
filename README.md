@@ -1,43 +1,81 @@
-# 👋 Hi, I'm Satya Sai Ganesh
+# 👋 Hi, I'm P. Satya Sai Ganesh
 
-💻 Passionate | Exploring Backend Technologies  
-🎯 Goal: To build impactful tools, apps, and websites that solve real-world problems  
-📘 Currently Learning: Java, Spring Boot, and Backend Development  
-🌐 I enjoy turning ideas into reality through clean, functional, and user-focused websites.
-
----
-
-### 🛠️ Technologies I’m Working With:
-- HTML, CSS, JavaScript
-- WordPress, Elementor
-- MySQL
-- Java, OOP, Spring Boot (Learning)
-- Git, GitHub
+💻 Aspiring Software Development Engineer (SDE) | Full-Stack Developer
+🚀 Passionate about building scalable applications and solving real-world problems through technology.
+🎯 Goal: To contribute to innovative products and grow as a Software Engineer in a product-based company.
+📘 Currently Learning: Java, Data Structures & Algorithms, Spring Boot, System Design, and Backend Development.
 
 ---
 
+## 🛠️ Tech Stack
 
-### 📫 How to Reach Me
-- 📧 Email: satyasaiganeshmani343@gmail.com
-- 🌐 Portfolio: https://ganeshtech4.github.io/portfolio/  
-- 💬 LinkedIn:  https://www.linkedin.com/in/ganeshtech4/
+### Programming Languages
+
+* Java
+* JavaScript
+* SQL
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* React.js
+* Next.js
+
+### Backend Development
+
+* Spring Boot (Learning)
+* Node.js
+* REST APIs
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* Vercel
+* Linux
 
 ---
 
-Thanks for visiting my profile! 😊  
-Let’s connect, learn, and build together!
+## 🚀 Projects
 
-<!--
-**Ganeshtech4/Ganeshtech4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### LMS SaaS Platform
 
-Here are some ideas to get you started:
+Multi-tenant Learning Management System built using Next.js, Node.js, and MongoDB with support for custom domains, student management, payments, and content delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HRM System
+
+Employee management platform featuring attendance tracking, leave management, payroll modules, and role-based access control.
+
+### Deep Fake Image & Video Detection
+
+Machine Learning project that detects manipulated images and videos using deep learning techniques.
+
+---
+
+## 📈 Current Focus
+
+* Data Structures & Algorithms
+* Java Backend Development
+* Spring Boot
+* System Design Fundamentals
+* Building Production-Ready Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [satyasaiganeshmani343@gmail.com](mailto:satyasaiganeshmani343@gmail.com)
+🌐 Portfolio: https://ganeshtech4.github.io/portfolio/
+💼 LinkedIn: https://www.linkedin.com/in/ganeshtech4/
+🐙 GitHub: https://github.com/Ganeshtech4
+
+---
+
+⭐ Always eager to learn, collaborate, and build impactful software solutions.
